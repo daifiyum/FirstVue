@@ -15,7 +15,6 @@
 
 <script>
 export default {
-    
   data(){
     return {
       sc: false,
@@ -32,6 +31,8 @@ export default {
                         that.av = !that.av;
                     }, 100)
                 },
+                
+                   
             }
 }
 </script>
@@ -117,6 +118,11 @@ export default {
         .searchB {
             width: 90%;
 
+        }
+
+        .charts {
+            width: 70%;
+            height: 200px;
         }
 
         .forms {
