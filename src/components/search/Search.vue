@@ -9,11 +9,13 @@
             </form>
         </div>
         <div type="submit" class="buttons" @click="te"></div>
+        
 </div>
 </template>
 
 <script>
 export default {
+    
   data(){
     return {
       sc: false,
