@@ -117,10 +117,10 @@ export default {
 
         }
 
-        .charts {
+        /* .charts {
             width: 70%;
             height: 200px;
-        }
+        } */
 
         .forms {
             margin: 20px 0 0 20px;
